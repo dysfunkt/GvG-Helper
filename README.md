@@ -91,4 +91,3 @@ bun run check
 - `src/config.ts` - validates required environment variables with Zod.
 - `src/commands/` - command registration and implementations.
 - `src/commands/gvg/` - `/gvg` command, subcommands, and command groups.
-- `src/logger.ts` - Pino logger configuration.
